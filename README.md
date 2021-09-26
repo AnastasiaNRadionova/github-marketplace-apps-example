@@ -1,4 +1,7 @@
 # Angular's Tour of heroes app with the configuration for Github marketplace apps examples
+
+[![codecov](https://codecov.io/gh/AnastasiaNRadionova/github-marketplace-apps-example/branch/master/graph/badge.svg?token=NMxV08sDzu)](https://codecov.io/gh/AnastasiaNRadionova/github-marketplace-apps-example)
+
 This repo has following Github marketplace apps installed and configured:
 - Codecov
 - Stale
@@ -28,3 +31,6 @@ npm run coverage
 codecov --token=:token
 ```
 , where `:token` is Codecov token of your repo, specified in your Codecov account (e.g. for this repo I can find my token here: https://app.codecov.io/gh/AnastasiaNRadionova/github-marketplace-apps-example)
+
+6) To add Codecov badge to your README go yo app.codecov.io to your account, and in your repo select Badge - copy/past generated code.
+Example for this repo is at the top of this README file.
