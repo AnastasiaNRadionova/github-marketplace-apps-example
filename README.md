@@ -1,6 +1,7 @@
 # Angular's Tour of heroes app with the configuration for Github marketplace apps examples
 
 [![codecov](https://codecov.io/gh/AnastasiaNRadionova/github-marketplace-apps-example/branch/master/graph/badge.svg?token=NMxV08sDzu)](https://codecov.io/gh/AnastasiaNRadionova/github-marketplace-apps-example)
+[![DepShield Badge](https://depshield.sonatype.org/badges/AnastasiaNRadionova/github-marketplace-apps-example/depshield.svg)](https://depshield.github.io)
 
 This repo has following Github marketplace apps installed and configured:
 - Codecov
